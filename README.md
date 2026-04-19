@@ -104,7 +104,6 @@ http://localhost:3000
 GitHub: https://github.com/sphurthi04
 
 ---
-
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
