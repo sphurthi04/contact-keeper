@@ -3,7 +3,6 @@
 A full-stack web application for managing personal and professional contacts efficiently. Users can create, update, delete, and search contacts through a clean and responsive interface.
 
 ---
-
 ## 🚀 Features
 
 * ➕ Add new contacts
